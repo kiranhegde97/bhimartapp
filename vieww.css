@@ -1,0 +1,24 @@
+
+table{
+
+ 	  /*border-collapse: collapse;*/
+ 	  width: 100%;
+   text-align: left;
+   border:none;
+   font-size: 20px;
+
+}
+tr:nth-child(even) {
+
+	/*background-color: #dddddd;
+opacity:0.6;
+*/
+}
+td:hover{
+
+}
+
+a{
+		font-size: 25px;
+
+}
